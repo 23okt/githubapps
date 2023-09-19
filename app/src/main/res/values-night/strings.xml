@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="user_nofound">User tidak ditemukan\n</string>
+    <string name="nama">Nama</string>
+    <string name="following">Following\n</string>
+    <string name="followingNumbers">123\n</string>
+    <string name="follow_nofound">Pengguna belum diikuti siapa pun</string>
+</resources>
